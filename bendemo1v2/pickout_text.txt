@@ -1,0 +1,5 @@
+1. Step 1 Passed - First telnet connection to port 21 was successful. A fake username with a :) and password were inputted and the connection was aborted after confirming that a login attempt was made.
+$
+2. Step 2 Passed - Second telnet connection to port 6200 was successful. The machine is likely vulnerable to this attack as an open connection on this port should normally not happen. However, if another, different, service is running on this port that made the connection, then step 3 will fail.
+$
+3. Step 3 Passed - The 'id;' telnet command returns the user as root. This means that the computer is in imminent danger as the test has fully succeeded and the computer lies open to attack. Please immediately restart the computer to close the open backdoor, update your FTP version, and rerun this command to verify that it has been patched

