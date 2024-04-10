@@ -1,0 +1,6 @@
+spawn telnet  21
+usage: telnet [-4] [-6] [-l user] [-b addr] [-a] host-name [port]
+send: spawn id exp5 not open
+    while executing
+"send "user CATSbackdoorvsftptest:)\r""
+    (file "./test.sh" line 16)
