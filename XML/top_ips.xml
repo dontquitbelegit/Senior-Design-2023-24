@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopIPs>
+<IP><Address>10.1.100.242</Address><DataBytes>5239242</DataBytes></IP>
+<IP><Address>17.248.210.64</Address><DataBytes>2503969</DataBytes></IP>
+<IP><Address>17.248.207.67</Address><DataBytes>2479788</DataBytes></IP>
+<IP><Address>17.248.207.66</Address><DataBytes>40149</DataBytes></IP>
+<IP><Address>224.0.0.251</Address><DataBytes>16157</DataBytes></IP>
+<IP><Address>17.253.24.205</Address><DataBytes>13820</DataBytes></IP>
+<IP><Address>17.253.144.10</Address><DataBytes>13590</DataBytes></IP>
+<IP><Address>10.1.97.16</Address><DataBytes>13287</DataBytes></IP>
+<IP><Address>162.159.61.4</Address><DataBytes>11564</DataBytes></IP>
+<IP><Address>17.248.210.70</Address><DataBytes>11346</DataBytes></IP>
+</TopIPs>

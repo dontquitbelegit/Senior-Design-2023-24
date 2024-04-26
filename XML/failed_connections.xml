@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FailedConnections>
+<Connection><IP>10.1.100.242</IP><ResetCount>17</ResetCount></Connection>
+<Connection><IP>17.248.228.65</IP><ResetCount>6</ResetCount></Connection>
+<Connection><IP>17.248.228.67</IP><ResetCount>4</ResetCount></Connection>
+<Connection><IP>52.35.150.14</IP><ResetCount>2</ResetCount></Connection>
+<Connection><IP>17.253.144.10</IP><ResetCount>2</ResetCount></Connection>
+<Connection><IP>17.248.228.64</IP><ResetCount>2</ResetCount></Connection>
+<Connection><IP>17.248.210.64</IP><ResetCount>2</ResetCount></Connection>
+<Connection><IP>17.248.207.67</IP><ResetCount>2</ResetCount></Connection>
+<Connection><IP>172.224.186.14</IP><ResetCount>1</ResetCount></Connection>
+<Connection><IP>17.253.24.205</IP><ResetCount>1</ResetCount></Connection>
+</FailedConnections>

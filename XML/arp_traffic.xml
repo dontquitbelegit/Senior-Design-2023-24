@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARPTraffic>
+<ARPEntry><MAC>3c:22:fb:68:e5:57</MAC><IP>10.1.100.242</IP><Count>8</Count></ARPEntry>
+<ARPEntry><MAC>a8:8f:d9:3d:53:e3</MAC><IP>10.1.101.84</IP><Count>2</Count></ARPEntry>
+</ARPTraffic>

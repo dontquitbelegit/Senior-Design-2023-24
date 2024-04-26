@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UnusualProtocolUsage>
+<ProtocolEntry><Protocol>10.1.101.84</Protocol><SourcePort>Morgan-3.local</SourcePort><DestinationPort>17</DestinationPort><Packets>9124</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>10.1.97.217</Protocol><SourcePort>Morgan-3.local</SourcePort><DestinationPort>18</DestinationPort><Packets>7730</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>Morgan-3.local</Protocol><SourcePort>17.248.207.65</SourcePort><DestinationPort>8</DestinationPort><Packets>6552</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>10.1.107.246</Protocol><SourcePort>Morgan-3.local</SourcePort><DestinationPort>15</DestinationPort><Packets>4650</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>10.1.97.85</Protocol><SourcePort>Morgan-3.local</SourcePort><DestinationPort>8</DestinationPort><Packets>3798</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>Morgan-3.local</Protocol><SourcePort>CARP.gannon.edu</SourcePort><DestinationPort>23</DestinationPort><Packets>3748</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>10.1.96.107</Protocol><SourcePort>Morgan-3.local</SourcePort><DestinationPort>7</DestinationPort><Packets>3745</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>Morgan-3.local</Protocol><SourcePort>52.96.109.242</SourcePort><DestinationPort>11</DestinationPort><Packets>2651</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>10.1.100.71</Protocol><SourcePort>Morgan-3.local</SourcePort><DestinationPort>8</DestinationPort><Packets>2351</Packets></ProtocolEntry>
+<ProtocolEntry><Protocol>Morgan-3.local</Protocol><SourcePort>mask-api.fe2.apple-dns.net</SourcePort><DestinationPort>6</DestinationPort><Packets>388</Packets></ProtocolEntry>
+</UnusualProtocolUsage>
