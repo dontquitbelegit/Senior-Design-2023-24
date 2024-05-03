@@ -1,7 +1,7 @@
 #!/bin/bash
 #soffice --accept="socket,host=localhost,port=2002;urp;" --norestore --nologo --nodefault
 
-nmap_output=$(nmap -sV --script=vulners scanme.nmap.org)
+nmap_output=$(nmap -sV --script=vulners $1)
 
 current_datetime=$(date +"%Y_%m_%d_%H:%M:%S")
 
